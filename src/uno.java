@@ -8,6 +8,6 @@
  *
  * @author pisko
  */
-public class Comentario {
+public class uno {
     
 }

@@ -8,6 +8,6 @@
  *
  * @author pisko
  */
-public class uno {
+public class dos {
     
 }
